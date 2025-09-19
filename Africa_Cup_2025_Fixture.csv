@@ -1,0 +1,53 @@
+home,score,away,year
+Morocco ,v, Comoros,2025
+Mali ,v, Zambia,2025
+Morocco ,v, Mali,2025
+Zambia ,v, Comoros,2025
+Zambia ,v, Morocco,2025
+Comoros ,v, Mali,2025
+Egypt ,v, Zimbabwe,2025
+South Africa ,v, Angola,2025
+Egypt ,v, South Africa,2025
+Angola ,v, Zimbabwe,2025
+Angola ,v, Egypt,2025
+Zimbabwe ,v, South Africa,2025
+Nigeria ,v, Tanzania,2025
+Tunisia ,v, Uganda,2025
+Nigeria ,v, Tunisia,2025
+Uganda ,v, Tanzania,2025
+Uganda ,v, Nigeria,2025
+Tanzania ,v, Tunisia,2025
+Senegal ,v, Botswana,2025
+DR Congo ,v, Benin,2025
+Senegal ,v, DR Congo,2025
+Benin ,v, Botswana,2025
+Benin ,v, Senegal,2025
+Botswana ,v, DR Congo,2025
+Algeria ,v, Sudan,2025
+Burkina Faso ,v, Equatorial Guinea,2025
+Algeria ,v, Burkina Faso,2025
+Equatorial Guinea ,v, Sudan,2025
+Equatorial Guinea ,v, Algeria,2025
+Sudan ,v, Burkina Faso,2025
+Ivory Coast ,v, Mozambique,2025
+Cameroon ,v, Gabon,2025
+Ivory Coast ,v, Cameroon,2025
+Gabon ,v, Mozambique,2025
+Gabon ,v, Ivory Coast,2025
+Mozambique ,v, Cameroon,2025
+Winner Group D,R1,3rd Group B/E/F,2025
+Runner-up Group A,R2,Runner-up Group C,2025
+Winner Group A,R3,3rd Group C/D/E,2025
+Runner-up Group B,R4,Runner-up Group F,2025
+Winner Group B,R5,3rd Group A/C/D,2025
+Winner Group C,R6,3rd Group A/B/F,2025
+Winner Group E,R7,Runner-up Group D,2025
+Winner Group F,R8,Runner-up Group E,2025
+Winner R2,QF1,Winner R1,2025
+Winner R4,QF2,Winner R3,2025
+Winner R7,QF3,Winner R6,2025
+Winner R5,QF4,Winner R8,2025
+Winner QF1,SF1,Winner QF4,2025
+Winner QF3,SF2,Winner QF2,2025
+Loser SF1,v,Loser SF2,2025
+Winner SF1,v,Winner SF2,2025
